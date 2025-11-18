@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **new ways to integrate ML in Full Stack Applications**<br><br>- 👨‍💻 All of my projects are available at [github.com/maheshtnt](github.com/maheshtnt)<br><br>- 💬 Ask me about **React.js and Tensorflow**<br><br>- 📫 How to reach me **maheshtnt007@gmail.com**<br><br>- ⚡ Fun fact **I love playing videogames and exploring new gaming tech!**</p>
+  - 🌱 I’m currently learning __new ways to integrate ML in Full Stack Applications__ 
+  - 👨‍💻 All of my projects are available at [github.com/maheshtnt](github.com/maheshtnt)
+  - 💬 Ask me about **React.js and Tensorflow**
+  - 📫 How to reach me **maheshtnt007@gmail.com**
+  - ⚡ Fun fact **I love playing videogames and exploring new gaming tech!**
 
 ###
 
